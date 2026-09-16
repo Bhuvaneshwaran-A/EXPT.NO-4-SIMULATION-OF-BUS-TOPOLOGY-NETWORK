@@ -58,6 +58,7 @@ $ns at 5.0 "finish"
 $ns run
  
 # OUTPUT
+<img width="959" height="1600" alt="WhatsApp Image 2026-09-07 at 8 37 53 PM" src="https://github.com/user-attachments/assets/34e6f1ae-14ef-46d9-bfc2-0c0a5304b7c6" />
 
 
 # RESULT
